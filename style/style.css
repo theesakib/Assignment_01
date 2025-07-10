@@ -1,0 +1,100 @@
+header{
+    background-image:url(../assests/Hero-bg.png);
+    background-size: cover;
+    /* width: 1440px; */
+    width: 100vw; 
+    height: 698px;
+}
+
+.inter_font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+.logo{
+    color:#4E47FF;
+    font-size: 34px;
+}
+
+.raleway_font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.btn{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: none;
+    border-radius:10px;
+}
+.bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150px;
+}
+.banner{
+    text-align: center;
+    max-width: 905px;
+    margin: 150px auto 200px;
+
+}
+.banner_font{
+    font-size:65px;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1140px;
+    margin: 70px auto 70px;
+}
+.first_img{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+.normal{
+    font-size:24px;;
+    font-weight: 400;
+    color:rgba(37, 36, 50, 0.5)
+}
+.left_action{
+    width: 517px;
+    height: 203px;
+}
+.action_head{
+    font-size: 42px;
+}
+
+
+.productive{
+    text-align: center;
+    max-width: 1140px;
+    max-height: 306px;
+    padding: 60px 80px;
+    margin: 70px auto;
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 24px;
+}
+.big_data{
+    color:#4E47FF;
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.small_data{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+}
+.productive_div{
+    display: flex;
+    justify-content: space-around;
+}
