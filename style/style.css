@@ -162,6 +162,8 @@ body {
 .form{
     width: 497px;
     height: 490px;
+    font-family: inter;
+    font-weight: 500px;
 }
 .form-row{
     width: 100%;
@@ -174,6 +176,11 @@ body {
 .pad{
     padding: 20px 32px;
     border-radius: 10px;
+    margin-top: 10px;
+}
+.last-btn{
+    padding: 19px 101px;
+    width: 497px;
 }
 .bottom{
     padding-bottom: 19px;
