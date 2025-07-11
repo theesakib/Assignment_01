@@ -186,8 +186,7 @@ body {
     font-size: 100px
 }
 .foot-p{
-    width: 531px;
-    /* height: 48px; */
+    width: 700px;
     margin: auto;
     padding-bottom: 20px;
 }
@@ -204,3 +203,45 @@ ul a{
     width: 401px;
     margin: auto;
 }
+
+.mid-txt{
+    padding: 24px 0;
+}
+.ag{
+    height: 29px;
+    width:221px;
+}
+.round{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius:9999px; 
+  padding-right:10px;
+}
+.line-pad{
+    padding: 0;
+}
+.date{
+    font-size: small;
+}
+.three-div{
+    width: 366px;
+    height: 243px;
+    padding: 24px 24px;
+    background-color: #FFFFFF;
+    border-radius: 14px;;
+}
+.control-div{
+    display: flex;
+    justify-content: center;
+    padding: 50px auto 10px;
+    gap: 20px;
+}
+.final{
+    padding: 10px 0;
+    margin: 100px auto;
+}
+.btn:hover {
+      background-color: #1317cf;
+      transform: scale(1.05);
+    }
